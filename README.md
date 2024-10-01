@@ -9,7 +9,7 @@
       [Pycharm was the IDE used](https://github.com/CloudMarauders/Cleaning-up-Snapshots-for-AWS-instances-with-Python.git)
 
  - <b>Week 2: Restoring corrupt volumes in AWS from Snapshots(backups)</b>
-     [Pycharm was the IDE used](https://github.com/Charles-Roro/Charles-GCP-Terraform-Pub-Bucket.git)
+     [Pycharm was the IDE used](https://github.com/CloudMarauders/Restoring-corrupt-volumes-in-AWS-from-Snapshots-backups-.git)
    
 
 
