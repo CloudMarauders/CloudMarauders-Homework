@@ -3,7 +3,7 @@
 <h2>Homework Submissions:</h2>
 
 - <b>Week 2: Creating volume Backups(Snapshots) in AWS with Python </b>
-      [Pycharm was the IDE used](https://github.com/Charles-Roro/Charles-GCP-Terraform.git)
+      [Pycharm was the IDE used](https://github.com/CloudMarauders/Creating-volume-Backups-Snapshots-in-AWS-with-Python.git)
   
 - <b>Week 2: Cleaning up Snapshots for AWS instances with Python </b>
       [Pycharm was the IDE used](https://github.com/Charles-Roro/Charles-Terraform-GCP-VM-website.git)
