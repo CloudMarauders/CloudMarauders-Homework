@@ -12,6 +12,7 @@
      [Pycharm was the IDE used](https://github.com/CloudMarauders/Restoring-corrupt-volumes-in-AWS-from-Snapshots-backups-.git)
    
 
-
+ - <b>Week 3: AWS-Subnet-Solution</b>
+       [Lucid was used to Plan the Architecture](https://github.com/CloudMarauders/AWS-Subnet-Solution.git)
 
 
