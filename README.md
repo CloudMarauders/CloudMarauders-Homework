@@ -16,3 +16,9 @@
        [Lucid was used to Plan the Architecture](https://github.com/CloudMarauders/AWS-Subnet-Solution.git)
 
 
+
+ - <b>Week 5: AWS-Windows-Bastion-Solution</b>
+       [Recreatin Week 4 assignment in Terraform](https://github.com/CloudMarauders/AWS-Terraform-VPC-Windowsbastion.git)
+
+
+
