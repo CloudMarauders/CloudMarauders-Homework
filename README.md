@@ -20,6 +20,6 @@
  - <b>Week 5: AWS-Windows-Bastion-Solution</b>
        [Recreatin Week 4 assignment in Terraform](https://github.com/CloudMarauders/AWS-Terraform-VPC-Windowsbastion.git)
 
-- <b>Week 5: Theos Modifed Repo/b>
+- <b>Week 5: Theos Modifed Repo</b>
        [Modified Repo with our CIDR ranges](https://github.com/CloudMarauders/Modified-Repo.git)
 
