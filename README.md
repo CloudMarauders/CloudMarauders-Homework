@@ -23,3 +23,9 @@
 - <b>Week 6: Theos Modifed Repo</b>
        [Modified Repo with our CIDR ranges](https://github.com/CloudMarauders/Modified-Repo.git)
 
+- <b>Week 9/10: AWS ASG Terraform</b>
+       [Terraform IaC](https://github.com/CloudMarauders/AWS-ASG-Terraform.git)
+
+
+
+
