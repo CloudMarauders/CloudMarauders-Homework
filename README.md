@@ -33,6 +33,10 @@
        [Terraform](https://github.com/CloudMarauders/AWSArmo.git)
 
 
+- <b>Armageddon Part 2: Bigger Badder AWS</b>
+       [Terraform](https://github.com/CloudMarauders/AWSArmo.git)
+
+
 
 
   
